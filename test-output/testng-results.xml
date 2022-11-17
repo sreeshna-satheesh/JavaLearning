@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23272" started-at="2022-10-20T06:55:25Z" finished-at="2022-10-20T06:55:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23272" started-at="2022-10-20T06:55:25Z" finished-at="2022-10-20T06:55:48Z">
+      <class name="seleniumPracticeOct20.AlertPractice">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:seleniumPracticeOct20.AlertPractice@4563e9ab]" name="launchApp" is-config="true" duration-ms="3456" started-at="2022-10-19T23:55:25Z" finished-at="2022-10-19T23:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="AlertTry()[pri:0, instance:seleniumPracticeOct20.AlertPractice@4563e9ab]" name="AlertTry" duration-ms="3440" started-at="2022-10-19T23:55:28Z" finished-at="2022-10-19T23:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AlertTry -->
+        <test-method status="PASS" signature="confirmAlert()[pri:0, instance:seleniumPracticeOct20.AlertPractice@4563e9ab]" name="confirmAlert" duration-ms="12172" started-at="2022-10-19T23:55:31Z" finished-at="2022-10-19T23:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmAlert -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:seleniumPracticeOct20.AlertPractice@4563e9ab]" name="closeApp" is-config="true" duration-ms="4192" started-at="2022-10-19T23:55:44Z" finished-at="2022-10-19T23:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- seleniumPracticeOct20.AlertPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
